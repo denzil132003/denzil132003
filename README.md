@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denzil132003
-- 👀 I’m interested in gaminng and watching anime
-- 🌱 I’m currently learning coding languages
+- 👀 I’m interested in gaming and watching anime
+- 🌱 I’m currently learning coding languages. 
 
   
 
