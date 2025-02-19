@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @denzil132003
 - 👀 I’m interested in gaming and watching anime
-- 🌱 I’m currently learning coding languages. 
+- 🌱 I’m currently learning coding languages.
+- I am currently in APG university pursuing BCA degree.
 
   
 
